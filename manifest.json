@@ -1,0 +1,7 @@
+{
+  "name": "DSPBigMechaStorage",
+  "version_number": "1.0.3",
+  "website_url": "https://github.com/appuns/DSPBigMechaStorage",
+  "description": "Increase the size of the fuel chamber and warper slot of Mecha. This don't affect achievements or milestones. メカの燃焼室や空間歪曲器のスロットのサイズが大きくなります。実績やマイルストーンには影響しません。",
+  "dependencies": []
+}
